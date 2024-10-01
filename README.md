@@ -10,6 +10,8 @@ Esse exercício foi baseado no tutorial oficial do Spring Security:
 
 - [Getting Started with Spring Security](https://docs.spring.io/spring-security/reference/servlet/getting-started.html?authuser=0)
 
+- Após baixado o arquivo disponibilizado no tutorial foi criado um controlador para definir a rota principal (`/`) e retornar uma mensagem de boas-vindas ao usuário autenticado. 
+
 ## Funcionalidades
 
 - Autenticação básica com formulário de login.
